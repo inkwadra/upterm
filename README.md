@@ -1,5 +1,4 @@
-[![Join the chat at https://gitter.im/railsware/upterm](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/upterm/Lobby)
-[![Build Status](https://travis-ci.org/railsware/upterm.svg?branch=master)](https://travis-ci.org/railsware/upterm)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/inkwadra/upterm?utm_source=oss&utm_medium=github&utm_campaign=inkwadra%2Fupterm&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 # Deprecated
 
